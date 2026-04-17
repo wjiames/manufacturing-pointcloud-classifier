@@ -150,4 +150,4 @@ The Streamlit app provides:
 ## 👤 Author
 
 Generated with assistance from Claude AI (Anthropic).  
-Course: ISE 5764 / CS 5805 — Virginia Tech
+
