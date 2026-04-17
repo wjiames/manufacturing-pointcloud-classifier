@@ -690,7 +690,7 @@ elif page == "ℹ️ About":
     st.markdown("""
     ## Manufacturing Part Feasibility Classifier
 
-    This application is developed for the course **ISE 5764 / CS 5805** at Virginia Tech.
+
 
     ### 📚 Methods Used
 
